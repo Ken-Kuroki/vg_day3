@@ -1,1 +1,8 @@
 scripts/minia/*
+contigs/*
+genes/*
+ncbi-genes/*
+ncbi-whole-genomes/*
+reads/*
+temp/*
+

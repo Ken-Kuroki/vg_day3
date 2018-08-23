@@ -36,7 +36,7 @@ if [ ! -e ../reads ]; then
     mkdir ../reads
 fi
 
-fastq-dump SRR3050845 -O ../reads
+# fastq-dump SRR3050845 -O ../reads
 
 
 ## fetch minia
