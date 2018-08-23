@@ -39,10 +39,3 @@ fi
 # fastq-dump SRR3050845 -O ../reads
 
 
-## fetch minia
-
-git clone --recursive https://github.com/GATB/minia.git
-cd minia
-sh INSTALL
-cd ../
-
